@@ -12,7 +12,7 @@ Welcome to my project portfolio repository! This portfolio showcases my web deve
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -63,7 +63,4 @@ The project structure is organized as follows:
 
 If you'd like to contribute to this project or have suggestions for improvements, please open an issue or create a pull request. Your feedback and contributions are highly appreciated!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
